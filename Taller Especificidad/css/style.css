@@ -1,0 +1,15 @@
+/* 1. Estilo del <h1> en .header */
+.header h1 {
+    color: white;
+    background-color: blue;
+}
+
+/* 2. El texto del <p> dentro de .content deben ser rojos */
+.content p {
+    color: red !important;
+}
+
+/* 3. Cambiar el color del texto del footer a gris */
+#footer p {
+    color: gray;
+}
